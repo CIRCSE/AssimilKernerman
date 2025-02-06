@@ -3,7 +3,9 @@
 ## About
 
 RDF version (with linking to the LiLa Knowledge Base) of The Assimil Kernerman Latin-French Dictionary (Lexicala by K DICTIONARIES: https://lexicala.com), a bilingual dictionary aimed at French-speaking readers learning Latin at a beginner or intermediate level. The dictionary contains 14,000 entries, 21,000 examples, and 38,000 translations. The words selected are those that form the basis of the Latin language for the period from the 1st century BC to the 1st century AD. The dictionary covers the fundamental lexicon of the works most frequently proposed in Latin classes, favoring authors from the end of the Republic and the 1st century of the Empire (Cicero, Caesar, Sallust, Livius, Seneca for prose writers; Virgil, Horace, Ovid for poets). Likewise, the proper names included in the dictionary have been selected because of their importance in Roman history or Greco-Latin civilization.
+
 Number of Triples = 537.818
+
 It is a work in progress NOT yet complete.
 
 **Source of data**
